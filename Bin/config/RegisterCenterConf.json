@@ -1,0 +1,21 @@
+{
+    "RedisList": [
+        {
+            "Name": "RegisterCenter",
+            "IP": "127.0.0.1",
+            "Port": 6379,
+            "Crypto": false,
+            "Password": "Test123456",
+            "Index": 0,
+            "MaxPoolSize": 8
+        }
+    ],
+    "GroupList": [
+        {
+            "Group": "default",
+            "RedisName": "RegisterCenter"
+        }
+    ],
+    "LarkWebHook": "https://oapi.dingtalk.com/robot/send?access_token=c663d0100f000e24a745618fd68664c6d79cb11bc76a6bc2a634fcb405fbd8a6",
+    "RelyWarningSwitch": true
+}

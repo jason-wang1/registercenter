@@ -1,0 +1,11 @@
+{
+    "server_list": [
+        {
+            "host": "algorithm-01",
+            "ip": "172.22.22.189",
+            "exe": "RegisterCenter",
+            "port": "6000",
+            "nickname": "register_center"
+        }
+    ]
+}

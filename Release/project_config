@@ -1,0 +1,22 @@
+# 公共库脚本目录
+common_script_dir=RegisterCenter/CommonLib/Script
+
+# 项目包名称, 路径名称
+package_name=register_center
+
+# 编译文件夹/可执行文件/测试文件名称
+build_folder_path=RegisterCenter
+build_exec_name=RegisterCenter
+build_test_name=RegisterCenterTest
+
+# 监控脚本名称
+monitor_py_name=register_center_monitor.py
+
+# 用于server.sh, 文件相对路径从项目根目录开始计算
+version_file_path=./RegisterCenter/Src/RegisterCenter/Define.h
+version_key=APP_VERSION
+
+# 用于server.sh, 生成Proto路径及执行文件
+proto_generate_path=./RegisterCenter/Protobuf/script/cpp_generate.sh
+proto_out_path=../../CommonLib/Protobuf/
+

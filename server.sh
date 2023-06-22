@@ -1,0 +1,1 @@
+RegisterCenter/CommonLib/Script/server.sh

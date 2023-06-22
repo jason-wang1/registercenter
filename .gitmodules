@@ -1,0 +1,6 @@
+[submodule "RegisterCenter/CommonLib"]
+	path = RegisterCenter/CommonLib
+	url = git@github.com:jason-wang1/commonlib.git
+[submodule "RegisterCenter/Protobuf"]
+	path = RegisterCenter/Protobuf
+	url = git@github.com:jason-wang1/protobuf.git
